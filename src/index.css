@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+
+.instrument-serif-regular {
+  font-family: "Instrument Serif", serif;
+}
+
+.pt-serif-regular {
+  font-family: "PT Serif", serif;
+}
