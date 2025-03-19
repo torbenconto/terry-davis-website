@@ -33,7 +33,7 @@ function App() {
             Terry Davis, a computer programmer, was known for creating TempleOS, an operating system that he built entirely from scratch. He was a brilliant mind who struggled with mental health issues.
           </p>
           <p className="mt-6 text-lg instrument-serif-regular">
-            His journey was filled with obstacles, but his reality continues to inspire countless people.
+            His journey was filled with obstacles, but his words and works continue to inspire countless people.
           </p>
           </div>
         </div>
