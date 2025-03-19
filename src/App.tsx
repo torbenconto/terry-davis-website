@@ -57,7 +57,7 @@ function App() {
             Davis dedicated his life and work to God, and his faith was a central part of his identity.
           </p>
           <p className="mt-6 text-lg instrument-serif-regular">
-            His journey was filled with obstacles, but his words and works continue to inspire countless people.
+            He was incredibly devoted to his craft, and his passion for programming was unmatched.
           </p>
           </div>
         </div>
